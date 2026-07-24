@@ -1,50 +1,55 @@
-# QuickBite Delivery
+# Week 1 – QuickBite Delivery Website
 
-## Welcome to QuickBite Delivery
+## Learning Activities & Resources
 
-QuickBite Delivery is an online food delivery service that connects customers with their favourite local restaurants. Our platform allows users to browse restaurant menus, order meals online, and have food delivered quickly to their homes, workplaces, or schools.
+This week I developed **QuickBite Delivery**, a simple website concept for an online food delivery service. The aim of the project was to design a website that allows customers to browse restaurant menus, place food orders online, and learn about the services offered by the platform.
 
-We aim to make food ordering simple, convenient, and affordable by bringing multiple restaurants together in one platform. Whether customers are craving burgers, pizza, Asian cuisine, desserts, or healthy meals, QuickBite Delivery provides a fast and reliable solution.
+While creating the website, I focused on organising content into clear sections and designing pages that are easy for users to navigate. I also practised structuring information using headings, lists, and responsive layouts to improve readability and user experience.
 
-## Our Services
+### Resources Used
 
-### Online Food Ordering
+- W3Schools HTML Tutorial  
+  https://www.w3schools.com/html/
 
-Customers can browse menus from various restaurants, view food prices, and place orders directly through our website.
+- W3Schools CSS Tutorial  
+  https://www.w3schools.com/css/
 
-### Fast Delivery
+- MDN Web Docs – HTML  
+  https://developer.mozilla.org/en-US/docs/Web/HTML
 
-Our delivery team ensures that food arrives fresh and on time. We focus on providing efficient delivery services within local areas.
+- MDN Web Docs – CSS  
+  https://developer.mozilla.org/en-US/docs/Web/CSS
 
-### Multiple Restaurant Choices
+---
 
-Customers can choose from different restaurant partners offering a wide variety of cuisines and meal options.
+## Estimated Hours of Explicit Learning Activity
 
-### Secure Payment Options
+Approximately **3 hours**.
+---
 
-QuickBite Delivery supports multiple payment methods, including cash on delivery, credit/debit cards, and online payments.
+## Content Insights
 
-## Why Choose QuickBite Delivery?
+The main objective of this project was to create an informative website for **QuickBite Delivery**, an online food delivery platform that connects customers with local restaurants.
 
-* Easy-to-use website
-* Wide selection of restaurants
-* Fast and reliable delivery service
-* Affordable prices and promotions
-* Secure payment options
-* Convenient ordering from anywhere
+The website includes information about:
 
-## Our Mission
+- Online food ordering.
+- Fast and reliable delivery services.
+- Multiple restaurant choices.
+- Secure payment options.
+- Restaurant categories available on the platform.
+- The company's mission and goals.
 
-Our mission is to make food ordering easier and more accessible by connecting customers with quality local restaurants through a simple and efficient online platform.
+During development, I learned the importance of organising website content into logical sections so visitors can quickly find the information they need. Using clear headings and concise descriptions also helped improve the overall readability of the website.
 
-## Featured Restaurant Categories
+I also considered user experience by presenting the services and features in a simple and structured way rather than displaying large blocks of text.
 
-* Fast Food
-* Pizza & Italian
-* Asian Cuisine
-* Healthy Meals
-* Desserts & Beverages
-* Local Specialties
+---
 
+## Career / Employability / Learning Insights
 
+This activity improved my understanding of how websites should present information to users in a clear and organised manner. Although the website is relatively simple, it reinforced the importance of planning page structure before beginning development.
 
+I also learned that good web design is not only about appearance but also about making information easy to understand and navigate. Organising content into meaningful sections helps improve the overall user experience and makes the website look more professional.
+
+Through this project, I gained more confidence in designing websites that communicate a business idea effectively while applying good web design principles. These skills will be valuable when developing larger web applications and business websites in the future.
